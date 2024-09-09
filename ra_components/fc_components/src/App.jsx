@@ -1,5 +1,4 @@
 import './App.css'
-// import { ShopItem } from './components/ShopItem'
 import { ShopItem } from './components/ShopItem'
 
 const item = {
@@ -12,7 +11,6 @@ const item = {
 }
 
 function App() {
-  // const [count, setCount] = useState(0)
 
   return (
       <div className="container">
